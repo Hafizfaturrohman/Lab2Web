@@ -6,7 +6,7 @@ Kelas : I251C
 Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 
 # Soal
-1. Apa fungsi <table>, <tr>, <th>, dan <td>?
+1. Apa fungsi `<table>`, `<tr>`, `<th>`, dan `<td>`?
 2. Apa perbedaan <th> dan <td>?
 3. Apa fungsi colspan pada tabel?
 4. Apa fungsi <form> dalam HTML?
