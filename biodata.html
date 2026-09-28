@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Biodata Hafiz Faturrohman</title>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1>Biodata Mahasiswa</h1>
+
+        <p>
+            Universitas Pelita Bangsa
+        </p>
+    </header>
+
+    <!-- NAVIGASI -->
+    <nav>
+        <a href="index.html">Beranda</a> |
+        <a href="biodata.html">Biodata</a> |
+        <a href="#form">Form Biodata</a>
+    </nav>
+
+    <hr>
+
+    <!-- MAIN -->
+    <main>
+
+        <!-- DATA BIODATA -->
+        <section id="biodata">
+
+            <h2>Data Mahasiswa</h2>
+
+            <table border="1">
+
+                <caption>
+                    Biodata Hafiz Faturrohman
+                </caption>
+
+                <thead>
+                    <tr>
+                        <th>Data</th>
+                        <th>Keterangan</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>NIM</td>
+                        <td>312210375</td>
+                    </tr>
+
+                    <tr>
+                        <td>Nama</td>
+                        <td>Hafiz Faturrohman</td>
+                    </tr>
+
+                    <tr>
+                        <td>Program Studi</td>
+                        <td>Teknik Informatika</td>
+                    </tr>
+
+                    <tr>
+                        <td>Universitas</td>
+                        <td>Universitas Pelita Bangsa</td>
+                    </tr>
+
+                    <tr>
+                        <td>Minat</td>
+                        <td>
+                            Software Development,
+                            Sistem Informasi,
+                            Web Development
+                        </td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </section>
+
+        <hr>
+
+        <!-- PROFIL -->
+        <section>
+
+            <h2>Profil Singkat</h2>
+
+            <article>
+
+                <p>
+                    Saya adalah mahasiswa Program Studi Teknik Informatika
+                    Universitas Pelita Bangsa yang memiliki minat pada
+                    pengembangan perangkat lunak, sistem informasi,
+                    dan teknologi berbasis web.
+                </p>
+
+                <p>
+                    Saya memiliki sifat disiplin, sabar, dan tekun dalam
+                    mengerjakan tugas. Saya juga senang mempelajari
+                    teknologi baru yang berkaitan dengan dunia pemrograman
+                    dan pengembangan website.
+                </p>
+
+            </article>
+
+        </section>
+
+        <hr>
+
+        <!-- FORM -->
+        <section id="form">
+
+            <h2>Form Biodata</h2>
+
+            <form>
+
+                <label for="nama">
+                    Nama Lengkap
+                </label>
+
+                <br>
+
+                <input
+                    type="text"
+                    id="nama"
+                    name="nama"
+                    required
+                    minlength="3"
+                    maxlength="50"
+                    placeholder="Masukkan nama">
+
+                <br><br>
+
+
+                <label for="email">
+                    Email
+                </label>
+
+                <br>
+
+                <input
+                    type="email"
+                    id="email"
+                    name="email"
+                    required
+                    placeholder="Masukkan email">
+
+                <br><br>
+
+
+                <label for="umur">
+                    Umur
+                </label>
+
+                <br>
+
+                <input
+                    type="number"
+                    id="umur"
+                    name="umur"
+                    min="17"
+                    max="60"
+                    required>
+
+                <br><br>
+
+
+                <label for="prodi">
+                    Program Studi
+                </label>
+
+                <br>
+
+                <select
+                    id="prodi"
+                    name="prodi"
+                    required>
+
+                    <option value="">
+                        -- Pilih Program Studi --
+                    </option>
+
+                    <option value="ti">
+                        Teknik Informatika
+                    </option>
+
+                    <option value="si">
+                        Sistem Informasi
+                    </option>
+
+                </select>
+
+                <br><br>
+
+
+                <h3>Jenis Kelamin</h3>
+
+                <input
+                    type="radio"
+                    id="laki"
+                    name="jk"
+                    value="L"
+                    required>
+
+                <label for="laki">
+                    Laki-laki
+                </label>
+
+                <br>
+
+                <input
+                    type="radio"
+                    id="perempuan"
+                    name="jk"
+                    value="P">
+
+                <label for="perempuan">
+                    Perempuan
+                </label>
+
+                <br><br>
+
+
+                <h3>Keahlian</h3>
+
+                <input
+                    type="checkbox"
+                    id="html"
+                    name="skill"
+                    value="HTML">
+
+                <label for="html">
+                    HTML
+                </label>
+
+                <br>
+
+                <input
+                    type="checkbox"
+                    id="css"
+                    name="skill"
+                    value="CSS">
+
+                <label for="css">
+                    CSS
+                </label>
+
+                <br>
+
+                <input
+                    type="checkbox"
+                    id="javascript"
+                    name="skill"
+                    value="JavaScript">
+
+                <label for="javascript">
+                    JavaScript
+                </label>
+
+                <br><br>
+
+
+                <label for="alamat">
+                    Alamat
+                </label>
+
+                <br>
+
+                <textarea
+                    id="alamat"
+                    name="alamat"
+                    rows="5"
+                    cols="40"
+                    required
+                    minlength="10"
+                    placeholder="Masukkan alamat"></textarea>
+
+                <br><br>
+
+
+                <label for="tanggal">
+                    Tanggal Lahir
+                </label>
+
+                <br>
+
+                <input
+                    type="date"
+                    id="tanggal"
+                    name="tanggal"
+                    required>
+
+                <br><br>
+
+
+                <button type="submit">
+                    Simpan
+                </button>
+
+                <button type="reset">
+                    Reset
+                </button>
+
+            </form>
+
+        </section>
+
+        <hr>
+
+        <!-- ASIDE -->
+        <aside>
+
+            <h3>Catatan</h3>
+
+            <p>
+                Halaman ini merupakan proyek mini Praktikum 2
+                HTML Lanjutan.
+            </p>
+
+        </aside>
+
+    </main>
+
+    <hr>
+
+    <!-- FOOTER -->
+    <footer>
+
+        <p>
+            &copy; 2026 Hafiz Faturrohman
+        </p>
+
+        <p>
+            Teknik Informatika - Universitas Pelita Bangsa
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
