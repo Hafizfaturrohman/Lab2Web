@@ -27,12 +27,6 @@ Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 6. Agar label memiliki hubungan yang jelas dengan input yang dimaksud. Atribut `for` pada `<label>` dihubungkan dengan nilai `id` pada elemen input.
 7. `<input type="text">` digunakan untuk memasukkan teks dalam satu baris, sedangkan `<textarea>` digunakan untuk memasukkan teks yang lebih panjang dan dapat terdiri dari beberapa baris.
 8. Semantic HTML digunakan untuk memberikan struktur dan makna yang jelas pada bagian-bagian halaman web.
-`<header>` → bagian kepala atau pembuka halaman.
-`<nav>` → bagian navigasi.
-`<main>` → bagian utama halaman.
-`<section>` → membagi halaman menjadi beberapa bagian/topik.
-`<article>` → bagian konten yang berdiri sendiri.
-`<aside>` → bagian informasi tambahan atau sampingan.
-`<footer>` → bagian bawah halaman.
+`<header>` → bagian kepala atau pembuka halaman,`<nav>` bagian navigasi, `<main>` bagian utama halaman, `<section>` membagi halaman menjadi beberapa bagian/topik, `<article>` bagian konten yang berdiri sendiri, `<aside>` bagian informasi tambahan atau sampingan, `<footer>` bagian bawah halaman.
 9. `required` membuat input wajib diisi, `min` menentukan nilai minimum yang diperbolehkan, `max` menentukan nilai maksimum yang diperbolehkan, `minlength` menentukan jumlah karakter minimum yang harus dimasukkan.
 10. `<audio>` digunakan untuk menampilkan atau memutar file suara/audio, sedangkan `<video>` digunakan untuk menampilkan atau memutar file video.
