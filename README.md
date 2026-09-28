@@ -19,5 +19,5 @@ Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 10. Apa perbedaan elemen <audio> dan <video>?
 
 # Jawab
-1. `<table>`: membuat sebuah tabel dalam HTML. `<tr>`: membuat baris pada tabel (table row). `<th>`: membuat sel sebagai judul/header tabel (table header). `<td>`: membuat sel yang berisi data tabel (table data).
+1. 
 2. 
