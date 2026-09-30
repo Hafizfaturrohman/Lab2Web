@@ -36,7 +36,7 @@ Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 <img width="1091" height="643" alt="image" src="https://github.com/user-attachments/assets/98b393cd-aba4-4f55-93b5-f5a1e76e4ad9" />
 <img width="1011" height="648" alt="image" src="https://github.com/user-attachments/assets/36bd769e-9b3e-4620-8166-a2b2af7187fa" />
 <img width="759" height="501" alt="image" src="https://github.com/user-attachments/assets/2832bfb0-536a-417c-b57a-f86543531c42" />
-<img width="641" height="614" alt="image" src="https://github.com/user-attachments/assets/0c587dec-0ca2-4972-9728-b5b87281d36b" />
+<img width="589" height="610" alt="image" src="https://github.com/user-attachments/assets/ce8f8b5a-92b8-4610-be09-a9138769bda7" />
 
 # Hasil
 <img width="558" height="659" alt="image" src="https://github.com/user-attachments/assets/7eb1e3a7-c7c7-43af-b9e1-21e09d73b2f8" />
@@ -51,6 +51,7 @@ Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 <img width="761" height="661" alt="image" src="https://github.com/user-attachments/assets/fcc2b8bf-03d2-4395-aa05-320df376b7a4" />
 <img width="604" height="632" alt="image" src="https://github.com/user-attachments/assets/f96173dd-87f5-4919-9e70-371b614e678f" />
 <img width="552" height="633" alt="image" src="https://github.com/user-attachments/assets/52b843dc-fccf-4321-aafd-512b7b73ed79" />
+
 # Hasil
 <img width="1250" height="559" alt="image" src="https://github.com/user-attachments/assets/2d1b6672-c835-4391-bb9c-c1582dad96e7" />
 <img width="503" height="679" alt="image" src="https://github.com/user-attachments/assets/fdcae5bf-cc0e-4a1f-9dce-2945476015c4" />
