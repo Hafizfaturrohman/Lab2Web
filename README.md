@@ -43,7 +43,14 @@ Hasil
 <img width="557" height="360" alt="image" src="https://github.com/user-attachments/assets/899b607d-0a34-4a8f-9202-5a99c0bf9b29" />
 
 # Hasil Projek Biiodata
+Code
 <img width="1108" height="579" alt="image" src="https://github.com/user-attachments/assets/ec91786b-58f6-4749-8f74-98586cffbd81" />
 <img width="586" height="657" alt="image" src="https://github.com/user-attachments/assets/c275a794-98ad-465c-b1c8-853a29e53798" />
-
+<img width="698" height="483" alt="image" src="https://github.com/user-attachments/assets/7a27f80f-99be-4ead-a666-a241a9ff9257" />
+<img width="761" height="661" alt="image" src="https://github.com/user-attachments/assets/fcc2b8bf-03d2-4395-aa05-320df376b7a4" />
+<img width="604" height="632" alt="image" src="https://github.com/user-attachments/assets/f96173dd-87f5-4919-9e70-371b614e678f" />
+Hasil
+<img width="1250" height="559" alt="image" src="https://github.com/user-attachments/assets/2d1b6672-c835-4391-bb9c-c1582dad96e7" />
+<img width="503" height="679" alt="image" src="https://github.com/user-attachments/assets/fdcae5bf-cc0e-4a1f-9dce-2945476015c4" />
+<img width="459" height="289" alt="image" src="https://github.com/user-attachments/assets/469eecfc-0360-4a80-be88-08297d0d1954" />
 
