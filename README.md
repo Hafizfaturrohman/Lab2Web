@@ -40,7 +40,7 @@ Code
 Hasil
 <img width="558" height="659" alt="image" src="https://github.com/user-attachments/assets/7eb1e3a7-c7c7-43af-b9e1-21e09d73b2f8" />
 <img width="650" height="667" alt="image" src="https://github.com/user-attachments/assets/d74230c1-b6ff-4d71-91c9-a69731a42460" />
-<img width="557" height="360" alt="image" src="https://github.com/user-attachments/assets/899b607d-0a34-4a8f-9202-5a99c0bf9b29" />
+<img width="250" height="521" alt="image" src="https://github.com/user-attachments/assets/3a5ebb2c-dfd2-4910-ad48-2d0e983f8f15" />
 
 # Hasil Projek Biiodata
 Code
