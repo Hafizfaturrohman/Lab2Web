@@ -30,3 +30,10 @@ Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 `<header>` → bagian kepala atau pembuka halaman,`<nav>` bagian navigasi, `<main>` bagian utama halaman, `<section>` membagi halaman menjadi beberapa bagian/topik, `<article>` bagian konten yang berdiri sendiri, `<aside>` bagian informasi tambahan atau sampingan, `<footer>` bagian bawah halaman.
 9. `required` membuat input wajib diisi, `min` menentukan nilai minimum yang diperbolehkan, `max` menentukan nilai maksimum yang diperbolehkan, `minlength` menentukan jumlah karakter minimum yang harus dimasukkan.
 10. `<audio>` digunakan untuk menampilkan atau memutar file suara/audio, sedangkan `<video>` digunakan untuk menampilkan atau memutar file video.
+
+# Praktikum 2
+Code
+<img width="1091" height="643" alt="image" src="https://github.com/user-attachments/assets/98b393cd-aba4-4f55-93b5-f5a1e76e4ad9" />
+
+<img width="1108" height="579" alt="image" src="https://github.com/user-attachments/assets/ec91786b-58f6-4749-8f74-98586cffbd81" />
+
