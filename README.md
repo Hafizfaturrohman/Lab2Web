@@ -34,6 +34,16 @@ Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 # Praktikum 2
 Code
 <img width="1091" height="643" alt="image" src="https://github.com/user-attachments/assets/98b393cd-aba4-4f55-93b5-f5a1e76e4ad9" />
+<img width="1011" height="648" alt="image" src="https://github.com/user-attachments/assets/36bd769e-9b3e-4620-8166-a2b2af7187fa" />
+<img width="759" height="501" alt="image" src="https://github.com/user-attachments/assets/2832bfb0-536a-417c-b57a-f86543531c42" />
+<img width="641" height="614" alt="image" src="https://github.com/user-attachments/assets/0c587dec-0ca2-4972-9728-b5b87281d36b" />
+Hasil
+<img width="558" height="659" alt="image" src="https://github.com/user-attachments/assets/7eb1e3a7-c7c7-43af-b9e1-21e09d73b2f8" />
+<img width="650" height="667" alt="image" src="https://github.com/user-attachments/assets/d74230c1-b6ff-4d71-91c9-a69731a42460" />
+<img width="557" height="360" alt="image" src="https://github.com/user-attachments/assets/899b607d-0a34-4a8f-9202-5a99c0bf9b29" />
 
+# Hasil Projek Biiodata
 <img width="1108" height="579" alt="image" src="https://github.com/user-attachments/assets/ec91786b-58f6-4749-8f74-98586cffbd81" />
+<img width="586" height="657" alt="image" src="https://github.com/user-attachments/assets/c275a794-98ad-465c-b1c8-853a29e53798" />
+
 
